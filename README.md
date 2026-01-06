@@ -32,7 +32,7 @@ This project addresses these challenges by automating sentiment analysis on Amaz
   * Maximum: 2,572 characters
   * Average: ~164 characters
 
-The dataset provides diverse user opinions suitable for sentiment trend analysis fileciteturn4file0.
+The dataset provides diverse user opinions suitable for sentiment trend analysis.
 
 ---
 
@@ -74,7 +74,7 @@ To better understand sentiment trends, multiple visualizations were generated:
 * **Weaknesses:** hardware-related issues (e.g., home button problems)
 * **Opportunities:** neutral reviews indicate areas for enhanced customer engagement
 
-These findings demonstrate how sentiment analysis on Amazon reviews can guide product improvement, seller response strategies, and marketing decisions fileciteturn4file0.
+These findings demonstrate how sentiment analysis on Amazon reviews can guide product improvement, seller response strategies, and marketing decisions.
 
 ---
 
